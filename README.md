@@ -1,4 +1,4 @@
-# Programming Foundations: Intro to Git
+#Programming Foundations: Intro to Git
 
 Exercise files for the **Programming Foundations: Intro to Git** course on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/christina-truong?u=2125562).
 
