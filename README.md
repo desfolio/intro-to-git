@@ -4,4 +4,4 @@ Exercise files for the **Programming Foundations: Intro to Git** course on [Link
 
 Created by [Christina Truong](http://christinatruong.com)
 
-Find me on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
+Find her on [Twitter](http://twitter.com/christinatruong) or [Instagram](http://instagram.com/christina.is.online)!
